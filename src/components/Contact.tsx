@@ -34,8 +34,8 @@ export default function Contact() {
     {
       icon: Phone,
       title: "Call Us",
-      details: ["+91 98765 43210", "+91 98765 43211"],
-      link: "tel:+919876543210",
+      details: ["+91 8778184915", "+91 8778184916"],
+      link: "tel:+918778184915",
     },
     {
       icon: Mail,
@@ -212,7 +212,7 @@ export default function Contact() {
                         setFormData({ ...formData, phone: e.target.value })
                       }
                       className="w-full px-4 py-3 bg-background rounded-lg border border-cream focus:border-primary focus:ring-2 focus:ring-primary/20 outline-none transition-all"
-                      placeholder="+91 98765 43210"
+                      placeholder="+91 8778184915"
                     />
                   </div>
 

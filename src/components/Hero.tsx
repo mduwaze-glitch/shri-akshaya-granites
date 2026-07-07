@@ -55,7 +55,7 @@ export default function Hero() {
                 />
               </a>
               <a
-                href="tel:+919876543210"
+                href="tel:+918778184915"
                 className="inline-flex items-center gap-2 border-2 border-primary text-primary px-8 py-4 rounded-full font-semibold hover:bg-primary hover:text-white transition-all duration-300"
               >
                 <Phone size={20} />
