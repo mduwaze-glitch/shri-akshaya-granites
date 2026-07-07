@@ -27,7 +27,7 @@ export default function Header() {
               className="flex items-center gap-2 hover:text-cream transition-colors"
             >
               <Phone size={14} />
-              <span>+91 98765 43210</span>
+              <span>+91 8778184915</span>
             </a>
             <a
               href="mailto:info@shriakshayagranites.com"
