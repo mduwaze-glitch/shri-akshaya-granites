@@ -23,7 +23,7 @@ export default function Header() {
         <div className="max-w-7xl mx-auto px-4 flex justify-between items-center">
           <div className="flex items-center gap-6">
             <a
-              href="tel:+919876543210"
+              href="tel:+918778184915"
               className="flex items-center gap-2 hover:text-cream transition-colors"
             >
               <Phone size={14} />
