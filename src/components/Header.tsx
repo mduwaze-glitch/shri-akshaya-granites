@@ -38,7 +38,7 @@ export default function Header() {
             </a>
           </div>
           <div className="text-white/70">
-            Rasipalli Village, Achamangalam, Tamil Nadu
+            Krishnagiri, Tamil Nadu
           </div>
         </div>
       </div>
